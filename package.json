@@ -1,0 +1,45 @@
+{
+  "name": "bill-mi",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/icons-material": "^5.10.3",
+    "@mui/material": "^5.10.4",
+    "@reduxjs/toolkit": "^1.8.5",
+    "antd": "^4.23.0",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.0.1",
+    "easyinvoice": "^2.3.3",
+    "emailjs": "^4.0.1",
+    "framer-motion": "^7.3.2",
+    "jsonwebtoken": "^8.5.1",
+    "millify": "^5.0.1",
+    "mongoose": "^6.6.0",
+    "next": "12.2.5",
+    "next-redux-wrapper": "^8.0.0",
+    "node-2fa": "^2.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-otp-input": "^2.4.0",
+    "react-redux": "^8.0.2",
+    "recharts": "2.1.12",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.8",
+    "eslint": "8.22.0",
+    "eslint-config-next": "12.2.5",
+    "postcss": "^8.4.16",
+    "sass": "^1.54.9",
+    "tailwindcss": "^3.1.8"
+  }
+}
